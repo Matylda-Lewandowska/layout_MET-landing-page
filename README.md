@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Mate Landing Page
+1. tech stack: HTML, CSS, SASS
+2. [DEMO LINK](https://matylda-lewandowska.github.io/layout_MET-landing-page/)
+3. Mockup [MET] (https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
